@@ -1,1 +1,41 @@
-# Heading 1##Heading 2##Heading3####Heading4#####Heading5######Heading6__text___text_*text***this**- - -___> quote[Link](showme.com)[Link](showme.com "Traversy")* item* item1 * *`<p>for i in range(10):print(10)<p> `![Markdown](https://markdown-here.com/img/icon256.png)```python	def yeet():		return "nice"```
+# Heading 1
+## Heading 2
+### Heading3
+#### Heading4.pp
+##### Heading5
+###### Heading6
+
+__text__
+
+_text_
+
+*text*
+
+**this**
+
+- - -
+
+___
+
+> quote
+
+[Link](showme.com)
+
+[Link](showme.com "Traversy")
+
+* item
+* item1
+ *
+ *
+
+`<p>for i in range(10):
+print(10)</p> `
+
+![Markdown](https://markdown-here.com/img/icon256.png)
+
+```python
+	def yeet():
+		return "nice"
+```
+
+
